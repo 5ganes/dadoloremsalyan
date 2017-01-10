@@ -1,0 +1,56 @@
+[02-Sep-2016 06:23:09 UTC] PHP Warning:  POST Content-Length of 14545893 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[02-Sep-2016 06:27:11 UTC] PHP Warning:  POST Content-Length of 14545893 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[02-Sep-2016 16:33:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[04-Sep-2016 06:04:48 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 258
+[04-Sep-2016 06:04:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dadorupandehigov/public_html/admin/manage_cms.php:258) in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 307
+[04-Sep-2016 10:36:54 UTC] PHP Warning:  filesize(): stat failed for ../files/listingfiles/news.pdf in /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php on line 125
+[04-Sep-2016 10:38:56 UTC] PHP Warning:  filesize(): stat failed for ../files/listingfiles/news.pdf in /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php on line 125
+[04-Sep-2016 13:17:33 UTC] PHP Warning:  unlink(../files/download/): Is a directory in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 145
+[04-Sep-2016 13:17:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dadorupandehigov/public_html/admin/manage_cms.php:145) in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 231
+[04-Sep-2016 13:19:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[05-Sep-2016 07:31:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[05-Sep-2016 13:51:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[05-Sep-2016 13:58:25 UTC] PHP Warning:  unlink(../files/download/): Is a directory in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 145
+[05-Sep-2016 13:58:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dadorupandehigov/public_html/admin/manage_cms.php:145) in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 231
+[06-Sep-2016 08:26:29 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/dadorupandehigov/public_html/admin/cms.php on line 135
+[11-Sep-2016 13:41:20 UTC] PHP Warning:  POST Content-Length of 11421708 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[11-Sep-2016 13:42:28 UTC] PHP Warning:  POST Content-Length of 11421708 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[12-Sep-2016 11:54:48 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/dadorupandehigov/public_html/admin/cms.php on line 135
+[16-Sep-2016 08:42:26 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 33
+[16-Sep-2016 08:42:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dadorupandehigov/public_html/admin/manage_cms.php:33) in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 231
+[16-Sep-2016 08:42:39 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 33
+[16-Sep-2016 08:42:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dadorupandehigov/public_html/admin/manage_cms.php:33) in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 231
+[16-Sep-2016 08:42:54 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 33
+[16-Sep-2016 08:42:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dadorupandehigov/public_html/admin/manage_cms.php:33) in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 231
+[18-Sep-2016 08:25:28 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/dadorupandehigov/public_html/admin/cms.php on line 135
+[18-Sep-2016 09:53:10 UTC] PHP Warning:  filesize(): stat failed for ../files/listingfiles/aepcnotice.jpg in /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php on line 125
+[18-Sep-2016 09:53:10 UTC] PHP Warning:  filesize(): stat failed for ../files/listingfiles/aepcnotice.jpg in /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php on line 125
+[18-Sep-2016 09:53:17 UTC] PHP Warning:  filesize(): stat failed for ../files/listingfiles/aepcnotice.jpg in /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php on line 125
+[21-Sep-2016 12:33:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[21-Sep-2016 12:39:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[21-Sep-2016 12:43:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[21-Sep-2016 12:48:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[22-Sep-2016 01:38:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[22-Sep-2016 01:39:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[22-Sep-2016 01:43:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[25-Sep-2016 09:25:16 UTC] PHP Warning:  POST Content-Length of 11315580 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[25-Sep-2016 09:26:53 UTC] PHP Warning:  POST Content-Length of 11315580 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[25-Sep-2016 09:29:02 UTC] PHP Warning:  POST Content-Length of 11315580 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[27-Sep-2016 11:48:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[30-Sep-2016 10:08:00 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/dadorupandehigov/public_html/admin/cms.php on line 135
+[30-Sep-2016 12:05:09 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 33
+[30-Sep-2016 12:05:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dadorupandehigov/public_html/admin/manage_cms.php:33) in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 231
+[30-Sep-2016 12:05:13 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 33
+[30-Sep-2016 12:05:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dadorupandehigov/public_html/admin/manage_cms.php:33) in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 231
+[30-Sep-2016 12:05:18 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 33
+[30-Sep-2016 12:05:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dadorupandehigov/public_html/admin/manage_cms.php:33) in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 231
+[01-Oct-2016 14:13:03 UTC] PHP Warning:  POST Content-Length of 11915652 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[01-Oct-2016 14:15:25 UTC] PHP Warning:  POST Content-Length of 11915652 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[03-Oct-2016 16:26:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[06-Oct-2016 08:17:16 UTC] PHP Warning:  filesize(): stat failed for ../files/listingfiles/aepcnotice.jpg in /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php on line 125
+[16-Oct-2016 06:31:01 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/dadorupandehigov/public_html/admin/cms.php on line 135
+[16-Oct-2016 06:31:12 UTC] PHP Warning:  mktime() expects parameter 6 to be long, string given in /home/dadorupandehigov/public_html/admin/cms.php on line 135
+[16-Oct-2016 08:21:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[26-Oct-2016 16:51:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadorupandehigov/public_html/admin/ajaxListingPanel.php:4) in /home/dadorupandehigov/public_html/admin/init.php on line 2
+[27-Oct-2016 07:35:42 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 33
+[27-Oct-2016 07:35:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dadorupandehigov/public_html/admin/manage_cms.php:33) in /home/dadorupandehigov/public_html/admin/manage_cms.php on line 231
