@@ -167,4 +167,11 @@
         </div>
       </div>      
     </div>
+
+    <div id="text-6" class="widget-sidebar frontier-widget widget_text">
+      <div class="textwidget">
+        <a href="bills.php"><img src="images/Untitled.png"></a>
+      </div>
+    </div>
+    
   </div>

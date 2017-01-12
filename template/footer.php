@@ -35,7 +35,7 @@
 		</div>
 		<div id="bottom-bar" class="cf">
 			<span id="bottom-bar-text">© Copyright <?=date('Y');?>. DADO Salyan, Nepal. All Right Reserved.</span>	
-			<span id="theme-link"><a href="http://www.krishighar.com/">Powered by: Team Krishighar</a></span>
+			<!-- <span id="theme-link"><a href="http://www.krishighar.com/">Powered by: Team Krishighar</a></span> -->
 		</div>
 	</div>
 
