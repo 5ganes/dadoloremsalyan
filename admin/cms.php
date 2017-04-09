@@ -35,6 +35,7 @@ if (isset($_GET['groupType']))
 <script language="javascript" src="../js/jquery.min.js"></script>
 <script type="text/javascript" src="ckeditor/ckeditor.js"></script>
 </head>
+<meta charset="utf-8">
 <body>
 <table width="<?php echo ADMIN_PAGE_WIDTH; ?>" border="0" align="center" cellpadding="0"
 	cellspacing="5" bgcolor="#FFFFFF">

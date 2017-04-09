@@ -29,6 +29,13 @@
 .nav-main >li ul li:last-child{border-bottom: none} 
 .nav-main >li ul li a{padding: 3px 10px}
 
+.nav-main li ul li ul{
+	display: none !important; width: 230px; position: absolute;margin-left: 240px !important; margin-top: -33px !important;
+}
+.nav-main li ul li:hover ul{
+	display: block !important;
+}
+
 #top-bar {background-color:#222222;}
 #bottom-bar {background-color:#16741e;}
 .blog-view, .comment-author-admin > .comment-body, .bypostauthor > .comment-body {border-top: 6px solid #2A5A8E;}
