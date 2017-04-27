@@ -2,6 +2,7 @@
 	.download{width:650px;}
 	.download ul{ margin:0;}
 	.download ul li{ list-style:none;}
+	.content-image{width: 100%;}
 </style>	
 <div id="content" class="cf" style="width:75%">
 <?php //include("includes/breadcrumb.php"); ?>
@@ -11,9 +12,18 @@
     </div>
     <div class="entry-content cf">
 		<?php
-		$pagename = "index.php?id=". $pageId ."&";
-		include("includes/pagination.php");
-		echo Pagination($pageContents, "content");?>
+		$content=$groups->getById($pageId);
+        $contentGet=$conn->fetchArray($content);
+        if(isset($contentGet['image']) and file_exists(CMS_GROUPS_DIR.$contentGet['image']))
+        	echo '<div><img class="content-image" src="'.CMS_GROUPS_DIR.$contentGet['image'].'"></div>';
+        //if($lan!='en')
+           echo $contentGet['contents'];
+        //else echo $contentGet['contentsen'];
+
+		//$pagename = "index.php?id=". $pageId ."&";
+		//include("includes/pagination.php");
+		//if(isset($))
+		//echo Pagination($pageContents, "content");?>
 		<br /><br>
 		<?
 		$sub=$groups->getByParentId($pageId);
