@@ -11,7 +11,7 @@
     	<?php
         $content=$groups->getById($pageId);
         $contentGet=$conn->fetchArray($content);
-        if(isset($contentGet['image']) and file_exists(CMS_GROUPS_DIR.$contentGet['image']))
+        if(!empty($contentGet['image']) and file_exists(CMS_GROUPS_DIR.$contentGet['image']))
             echo '<div><img class="content-image" src="'.CMS_GROUPS_DIR.$contentGet['image'].'"></div>';
         echo $contentGet['contents'];
 

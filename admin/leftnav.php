@@ -18,7 +18,7 @@
             <li><a href="cms.php?id=176&parentId=0&groupType=Other">Introduction</a></li>
             <li><a href="cms.php?id=274&parentId=0&groupType=Other">Message From Program Chief</a></li>
             <li><a href="cms.php?id=362&parentId=0&groupType=Other">Information Officer</a></li>
-            <li><a href="cms.php?id=356&parentId=0&groupType=Header">Photo Gallery</li>
+            <li><a href="cms.php?id=523&parentId=0&groupType=Header">Photo Gallery</li>
             <li><a href="bills.php">Manage Bills</a></li>
             <li><a href="cms.php?id=<?=HOT_NEWS?>&parentId=0&groupType=Header">Manage Hot News</a></li>
             <li><a href="cms.php?groupType=Other">Manage Other</a></li>
