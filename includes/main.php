@@ -170,8 +170,8 @@
 
     <div id="text-6" class="widget-sidebar frontier-widget widget_text">
       <div class="textwidget" style="background: #308242;text-align: center; padding: 4% 0">
-        <?php $proactiveDisclosure=$groups->getById(903); $proactiveDisclosure = $conn->fetchArray($proactiveDisclosure);?>
-        <a href="<?php echo $proactiveDisclosure['urlname'];?>" style="padding: 4%; display: block;width: 100%; color: white;font-size: 14px;">
+        <?php $proactiveDisclosure=$groups->getByURLName(PRO_DIS); //$proactiveDisclosure = $conn->fetchArray($proactiveDisclosure);?>
+        <a target="_blank" href="<?php echo CMS_FILES_DIR.$proactiveDisclosure['contents'];?>" style="padding: 4%; display: block;width: 100%; color: white;font-size: 14px;">
           <?php echo $proactiveDisclosure['name']; ?>
         </a>
       </div>

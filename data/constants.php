@@ -36,6 +36,7 @@ define("PUBLICATION", 338);
 define("YOUTUBE", 373);
 define("VIDEO_GALLERY", 386);
 define("HOT_NEWS", 588);
+define('PRO_DIS', 'proactive-disclosure');
 
 ///////////////GENERAL CLIENT SIDE CONSTANTS///////////////////
 
